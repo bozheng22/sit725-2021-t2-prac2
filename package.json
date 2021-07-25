@@ -1,0 +1,29 @@
+{
+  "name": "sit725-2021-t2-prac2",
+  "version": "1.0.0",
+  "description": "sit725 week2 prac",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bozheng22/sit725-2021-t2-prac2.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Bo Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bozheng22/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/bozheng22/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3"
+  }
+}
